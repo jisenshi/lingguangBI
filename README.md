@@ -34,11 +34,11 @@
 
 ![](BI_backend-master/doc/ansyc.png)
 
-![](/doc/synchronization.png)
+![](BI_backend-master//doc/synchronization.png)
 
 ### 项目界面
 
-![](/doc/1.png)
-![](/doc/2.png)
-![](/doc/3.png)
-![](/doc/4.png)
+![](BI_backend-master//doc/1.png)
+![](BI_backend-master//doc/2.png)
+![](BI_backend-master//doc/3.png)
+![](BI_backend-master//doc/4.png)
