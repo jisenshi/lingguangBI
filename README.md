@@ -40,5 +40,4 @@
 
 ![](BI_backend-master//doc/1.png)
 ![](BI_backend-master//doc/2.png)
-![](BI_backend-master//doc/3.png)
-![](BI_backend-master//doc/4.png)
+
