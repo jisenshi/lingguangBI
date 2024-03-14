@@ -32,7 +32,7 @@
 
 ### 运行流程
 
-![](/doc/ansyc.png)
+![](BI_backend-master/doc/ansyc.png)
 
 ![](/doc/synchronization.png)
 
